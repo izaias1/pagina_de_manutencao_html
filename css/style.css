@@ -47,6 +47,11 @@ body{
     height: 100vh;
 }
 
+.logotipo_home img{
+    width: auto;
+    height: 120px;
+}
+
 @media screen and (max-width: 991px) {
     .bloco_home{
         text-align: center;
